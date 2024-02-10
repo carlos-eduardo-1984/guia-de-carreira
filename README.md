@@ -3,7 +3,6 @@
 ## Contents
 - [Introduction](#introduction)
 - [Test Plan Sample](#test-plan-sample)
-- [The Road Map](#the-road-map)
 - [Advices](#advices)
 
 ## Introduction
@@ -22,10 +21,12 @@ Test plan sections and content can vary based on project and delivery nature, th
 
 Attached PDF can be found here [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
 
-## The Road Map
 
-![QA Engineer Road Map 2022](https://i.imgur.com/cM9cM8T.png)
-![QA Engineer Road Map 2022](https://i.imgur.com/meodAKp.png)
+## The Road Map
+![Roadmap-EN](https://github.com/carlos-eduardo-1984/guia-de-carreira/assets/159614680/13dd3ff0-ba7c-4059-a66e-77d011f093cf)
+
+![Roadmap-PT](https://github.com/carlos-eduardo-1984/guia-de-carreira/assets/159614680/bd728e6f-f050-4054-aca8-073a2b629522)
+
 
 ## Advices
 
